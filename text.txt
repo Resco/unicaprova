@@ -4,6 +4,6 @@ dopo un commit in cui c'è stato l'aggiungimento del readme,
 ora agigungo un secondo pezzo di testo che dovrebbe essere
 visibile nel TERZO COMMIT
 
-in questo altro commit dovrei aver modificato l'AUTORE del commit
+***in questo altro commit dovrei aver modificato l'AUTORE del commit
 
 ***questa modifica dovrebbe essere nel branch primobranch
