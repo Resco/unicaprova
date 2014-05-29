@@ -1,1 +1,6 @@
 testo iniziale
+
+dopo un commit in cui c'è stato l'aggiungimento del readme, 
+ora agigungo un secondo pezzo di testo che dovrebbe essere
+visibile nel TERZO COMMIT
+
